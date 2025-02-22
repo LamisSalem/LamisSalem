@@ -12,6 +12,7 @@
 
 ## 📌 Featured Projects  
 🔹 [Java Calculator](https://github.com/LamisSalem/Java-) - A simple calculator using Java  
+🔹My Website 🌐 [Live Demo](https://lamissalem.github.io/html/) - A simple website built using HTML and CSS
 
 ## 📫 Contact Me  
 📧 Email: lamis.salem23@gmail.com  
